@@ -22,4 +22,4 @@ A markdown editor with live preview.
 
 ## Preview:
 
-![markline-ui](https://raw.githubusercontent.com/arslanastral/markline/preview.png)
+![markline-ui](https://raw.githubusercontent.com/arslanastral/markline/main/preview.png)
