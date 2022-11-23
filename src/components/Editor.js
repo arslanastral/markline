@@ -86,11 +86,11 @@ const useMatchMedia = (width = 600) => {
   return toggleChange;
 };
 
-const placeholder = `# Markline ✨
+const placeholder = `# 📝 Markline
 
-A simple markdown editor. Built for freeCodeCamp Project.  
+A markdown editor with live preview.  
 
-[Github Repo](https://github.com/arslanastral/freeCodeCamp-Projects)
+[Github Repo](https://github.com/arslanastral/markline)
 
 ## Features
 - Live Markdown Preview 👁
