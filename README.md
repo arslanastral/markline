@@ -1,15 +1,25 @@
-# Markdown Previewer ✔
+# 📝 Markline
 
 Live Demo: [https://markline.netlify.app/](https://markline.netlify.app/)
 
-Markdown Previewer for freeCodeCamp Project.
+A markdown editor with live preview.
+
+[Github Repo](https://github.com/arslanastral/markline)
+
+## Features
+- Live Markdown Preview 👁
+- Syntax Highlighting 🎨
+- Resizable Panes 📏
+- Night Mode 🌙
+- Fullscreen Mode 💻
+- Saves Automatically 💾
 
 ## Local Development:
 
-- `git clone` this repo and `cd` into `02_Markdown-Previewer` directory and enter below commands
+- `git clone` this repo and `cd` into it and then:
 - `npm install`
 - `npm run start` (To start development server)
 
 ## Preview:
 
-![](https://raw.githubusercontent.com/arslanastral/freeCodeCamp-Projects/main/03_Front-End-Development-Libraries/02_Markdown-Previewer/Markdown-Previewer.png)
+![markline-ui](https://raw.githubusercontent.com/arslanastral/markline/preview.png)
